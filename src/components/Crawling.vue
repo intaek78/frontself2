@@ -1,7 +1,7 @@
 <template>
   <div id="crawling">
   <br/>
-  <h1>아마존 할인쿠폰 크롤링 (https://couponfollow.com/site/amazon.com)</h1>
+  <h1>아마존 할인쿠폰 크롤링11 (https://couponfollow.com/site/amazon.com)</h1>
   <h3>Amazon 할인쿠폰을 마이페이지에 등록하세요&nbsp;<input type="text" v-model="copiedcode">&nbsp;<button class="btn-insert" v-on:click="insertCode">등록</button></h3>
     <table>
       <thead>
